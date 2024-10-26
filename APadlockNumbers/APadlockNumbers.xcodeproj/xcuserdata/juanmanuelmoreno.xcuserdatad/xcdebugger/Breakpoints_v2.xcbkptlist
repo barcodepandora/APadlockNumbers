@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "759F7F1F-B17F-4EBB-8F14-B8901E1F7CA6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6ED5A06-EBAC-432F-8DAA-FB6DC71410D4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APadlockNumbers/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "F6ED5A06-EBAC-432F-8DAA-FB6DC71410D4 - 447ead28c8282060"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;APadlockNumbers.PositionNumber&gt;) -&gt; () in closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.scrollTransition&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.VisualEffect&gt;(_: SwiftUI.ScrollTransitionConfiguration, axis: Swift.Optional&lt;SwiftUI.Axis&gt;, transition: @Sendable (SwiftUI.EmptyVisualEffect, SwiftUI.ScrollTransitionPhase) -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt; in closure #1 (Swift.Int) -&gt; SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.scrollTransition&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.VisualEffect&gt;(_: SwiftUI.ScrollTransitionConfiguration, axis: Swift.Optional&lt;SwiftUI.Axis&gt;, transition: @Sendable (SwiftUI.EmptyVisualEffect, SwiftUI.ScrollTransitionPhase) -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Swift.Int&gt;, Swift.Int, SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.scrollTransition&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.VisualEffect&gt;(_: SwiftUI.ScrollTransitionConfiguration, axis: Swift.Optional&lt;SwiftUI.Axis&gt;, transition: @Sendable (SwiftUI.EmptyVisualEffect, SwiftUI.ScrollTransitionPhase) -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.scrollTargetLayout(isEnabled: Swift.Bool) -&gt; some&gt;&gt;.0 in APadlockNumbers.PadlockCarousel.body.getter : some"
+                  moduleName = "APadlockNumbers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/juanmanuelmoreno/Documents/APadlockNumbers/APadlockNumbers/APadlockNumbers/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "290">
+               </Location>
+               <Location
+                  uuid = "F6ED5A06-EBAC-432F-8DAA-FB6DC71410D4 - 447ead28c8282060"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;APadlockNumbers.PositionNumber&gt;) -&gt; () in closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.scrollTransition&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.VisualEffect&gt;(_: SwiftUI.ScrollTransitionConfiguration, axis: Swift.Optional&lt;SwiftUI.Axis&gt;, transition: @Sendable (SwiftUI.EmptyVisualEffect, SwiftUI.ScrollTransitionPhase) -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt; in closure #1 (Swift.Int) -&gt; SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.scrollTransition&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.VisualEffect&gt;(_: SwiftUI.ScrollTransitionConfiguration, axis: Swift.Optional&lt;SwiftUI.Axis&gt;, transition: @Sendable (SwiftUI.EmptyVisualEffect, SwiftUI.ScrollTransitionPhase) -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Swift.Int&gt;, Swift.Int, SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.scrollTransition&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.VisualEffect&gt;(_: SwiftUI.ScrollTransitionConfiguration, axis: Swift.Optional&lt;SwiftUI.Axis&gt;, transition: @Sendable (SwiftUI.EmptyVisualEffect, SwiftUI.ScrollTransitionPhase) -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.scrollTargetLayout(isEnabled: Swift.Bool) -&gt; some&gt;&gt;.0 in APadlockNumbers.PadlockCarousel.body.getter : some"
+                  moduleName = "APadlockNumbers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/juanmanuelmoreno/Documents/APadlockNumbers/APadlockNumbers/APadlockNumbers/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "319">
+               </Location>
+               <Location
+                  uuid = "F6ED5A06-EBAC-432F-8DAA-FB6DC71410D4 - 447ead28c8282060"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;APadlockNumbers.PositionNumber&gt;) -&gt; () in closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.scrollTransition&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.VisualEffect&gt;(_: SwiftUI.ScrollTransitionConfiguration, axis: Swift.Optional&lt;SwiftUI.Axis&gt;, transition: @Sendable (SwiftUI.EmptyVisualEffect, SwiftUI.ScrollTransitionPhase) -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt; in closure #1 (Swift.Int) -&gt; SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.scrollTransition&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.VisualEffect&gt;(_: SwiftUI.ScrollTransitionConfiguration, axis: Swift.Optional&lt;SwiftUI.Axis&gt;, transition: @Sendable (SwiftUI.EmptyVisualEffect, SwiftUI.ScrollTransitionPhase) -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Swift.Int&gt;, Swift.Int, SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.scrollTransition&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.VisualEffect&gt;(_: SwiftUI.ScrollTransitionConfiguration, axis: Swift.Optional&lt;SwiftUI.Axis&gt;, transition: @Sendable (SwiftUI.EmptyVisualEffect, SwiftUI.ScrollTransitionPhase) -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.scrollTargetLayout(isEnabled: Swift.Bool) -&gt; some&gt;&gt;.0 in APadlockNumbers.PadlockCarousel.body.getter : some"
+                  moduleName = "APadlockNumbers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/juanmanuelmoreno/Documents/APadlockNumbers/APadlockNumbers/APadlockNumbers/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "250">
+               </Location>
+               <Location
+                  uuid = "F6ED5A06-EBAC-432F-8DAA-FB6DC71410D4 - 447ead28c8282060"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;APadlockNumbers.PositionNumber&gt;) -&gt; () in closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.scrollTransition&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.VisualEffect&gt;(_: SwiftUI.ScrollTransitionConfiguration, axis: Swift.Optional&lt;SwiftUI.Axis&gt;, transition: @Sendable (SwiftUI.EmptyVisualEffect, SwiftUI.ScrollTransitionPhase) -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt; in closure #1 (Swift.Int) -&gt; SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.scrollTransition&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.VisualEffect&gt;(_: SwiftUI.ScrollTransitionConfiguration, axis: Swift.Optional&lt;SwiftUI.Axis&gt;, transition: @Sendable (SwiftUI.EmptyVisualEffect, SwiftUI.ScrollTransitionPhase) -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Swift.Int&gt;, Swift.Int, SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.scrollTransition&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.VisualEffect&gt;(_: SwiftUI.ScrollTransitionConfiguration, axis: Swift.Optional&lt;SwiftUI.Axis&gt;, transition: @Sendable (SwiftUI.EmptyVisualEffect, SwiftUI.ScrollTransitionPhase) -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.scrollTargetLayout(isEnabled: Swift.Bool) -&gt; some&gt;&gt;.0 in APadlockNumbers.PadlockCarousel.body.getter : some"
+                  moduleName = "APadlockNumbers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/juanmanuelmoreno/Documents/APadlockNumbers/APadlockNumbers/APadlockNumbers/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "217">
+               </Location>
+               <Location
+                  uuid = "F6ED5A06-EBAC-432F-8DAA-FB6DC71410D4 - 56325481797bb531"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onPreferenceChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.PreferenceKey, &#x3c4;_1_0.Value: Swift.Equatable&gt;(_: &#x3c4;_1_0.Type, perform: (&#x3c4;_1_0.Value) -&gt; ()) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.scrollTransition&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.VisualEffect&gt;(_: SwiftUI.ScrollTransitionConfiguration, axis: Swift.Optional&lt;SwiftUI.Axis&gt;, transition: @Sendable (SwiftUI.EmptyVisualEffect, SwiftUI.ScrollTransitionPhase) -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt; in closure #1 (Swift.Int) -&gt; SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.scrollTransition&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.VisualEffect&gt;(_: SwiftUI.ScrollTransitionConfiguration, axis: Swift.Optional&lt;SwiftUI.Axis&gt;, transition: @Sendable (SwiftUI.EmptyVisualEffect, SwiftUI.ScrollTransitionPhase) -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Swift.Int&gt;, Swift.Int, SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.scrollTransition&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.VisualEffect&gt;(_: SwiftUI.ScrollTransitionConfiguration, axis: Swift.Optional&lt;SwiftUI.Axis&gt;, transition: @Sendable (SwiftUI.EmptyVisualEffect, SwiftUI.ScrollTransitionPhase) -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.scrollTargetLayout(isEnabled: Swift.Bool) -&gt; some&gt;&gt;.0 in APadlockNumbers.PadlockCarousel.body.getter : some"
+                  moduleName = "APadlockNumbers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/juanmanuelmoreno/Documents/APadlockNumbers/APadlockNumbers/APadlockNumbers/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "883">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "009AF1E2-7CFF-4A1B-B72F-DB0530219F01"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APadlockNumbers/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A0F1FC0-696D-4C6B-BB62-E00C771F27C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APadlockNumbers/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "4A0F1FC0-696D-4C6B-BB62-E00C771F27C0 - 447ead28c8282026"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Array&lt;APadlockNumbers.PositionNumber&gt;) -&gt; () in closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.scrollTransition&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.VisualEffect&gt;(_: SwiftUI.ScrollTransitionConfiguration, axis: Swift.Optional&lt;SwiftUI.Axis&gt;, transition: @Sendable (SwiftUI.EmptyVisualEffect, SwiftUI.ScrollTransitionPhase) -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt; in closure #1 (Swift.Int) -&gt; SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.scrollTransition&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.VisualEffect&gt;(_: SwiftUI.ScrollTransitionConfiguration, axis: Swift.Optional&lt;SwiftUI.Axis&gt;, transition: @Sendable (SwiftUI.EmptyVisualEffect, SwiftUI.ScrollTransitionPhase) -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Swift.Int&gt;, Swift.Int, SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.scrollTransition&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.VisualEffect&gt;(_: SwiftUI.ScrollTransitionConfiguration, axis: Swift.Optional&lt;SwiftUI.Axis&gt;, transition: @Sendable (SwiftUI.EmptyVisualEffect, SwiftUI.ScrollTransitionPhase) -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.scrollTargetLayout(isEnabled: Swift.Bool) -&gt; some&gt;&gt;.0 in APadlockNumbers.PadlockCarousel.body.getter : some"
+                  moduleName = "APadlockNumbers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/juanmanuelmoreno/Documents/APadlockNumbers/APadlockNumbers/APadlockNumbers/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "651">
+               </Location>
+               <Location
+                  uuid = "4A0F1FC0-696D-4C6B-BB62-E00C771F27C0 - b939839e7f7904fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #2 (Swift.Array&lt;APadlockNumbers.PositionNumber&gt;) -&gt; () in closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.scrollTransition&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.VisualEffect&gt;(_: SwiftUI.ScrollTransitionConfiguration, axis: Swift.Optional&lt;SwiftUI.Axis&gt;, transition: @Sendable (SwiftUI.EmptyVisualEffect, SwiftUI.ScrollTransitionPhase) -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt; in closure #1 (Swift.Int) -&gt; SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.scrollTransition&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.VisualEffect&gt;(_: SwiftUI.ScrollTransitionConfiguration, axis: Swift.Optional&lt;SwiftUI.Axis&gt;, transition: @Sendable (SwiftUI.EmptyVisualEffect, SwiftUI.ScrollTransitionPhase) -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Swift.Int&gt;, Swift.Int, SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.scrollTransition&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.VisualEffect&gt;(_: SwiftUI.ScrollTransitionConfiguration, axis: Swift.Optional&lt;SwiftUI.Axis&gt;, transition: @Sendable (SwiftUI.EmptyVisualEffect, SwiftUI.ScrollTransitionPhase) -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.scrollTargetLayout(isEnabled: Swift.Bool) -&gt; some&gt;&gt;.0 in APadlockNumbers.PadlockCarousel.body.getter : some"
+                  moduleName = "APadlockNumbers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/juanmanuelmoreno/Documents/APadlockNumbers/APadlockNumbers/APadlockNumbers/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "4A0F1FC0-696D-4C6B-BB62-E00C771F27C0 - b939839e7f7904fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #2 (Swift.Array&lt;APadlockNumbers.PositionNumber&gt;) -&gt; () in closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.scrollTransition&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.VisualEffect&gt;(_: SwiftUI.ScrollTransitionConfiguration, axis: Swift.Optional&lt;SwiftUI.Axis&gt;, transition: @Sendable (SwiftUI.EmptyVisualEffect, SwiftUI.ScrollTransitionPhase) -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt; in closure #1 (Swift.Int) -&gt; SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.scrollTransition&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.VisualEffect&gt;(_: SwiftUI.ScrollTransitionConfiguration, axis: Swift.Optional&lt;SwiftUI.Axis&gt;, transition: @Sendable (SwiftUI.EmptyVisualEffect, SwiftUI.ScrollTransitionPhase) -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Swift.Int&gt;, Swift.Int, SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.scrollTransition&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.VisualEffect&gt;(_: SwiftUI.ScrollTransitionConfiguration, axis: Swift.Optional&lt;SwiftUI.Axis&gt;, transition: @Sendable (SwiftUI.EmptyVisualEffect, SwiftUI.ScrollTransitionPhase) -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.scrollTargetLayout(isEnabled: Swift.Bool) -&gt; some&gt;&gt;.0 in APadlockNumbers.PadlockCarousel.body.getter : some"
+                  moduleName = "APadlockNumbers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/juanmanuelmoreno/Documents/APadlockNumbers/APadlockNumbers/APadlockNumbers/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7DACF30-7338-429A-8574-9A93D1C25B8B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APadlockNumbers/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "F7DACF30-7338-429A-8574-9A93D1C25B8B - b939839e7f79041a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #2 (Swift.Array&lt;APadlockNumbers.PositionNumber&gt;) -&gt; () in closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.scrollTransition&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.VisualEffect&gt;(_: SwiftUI.ScrollTransitionConfiguration, axis: Swift.Optional&lt;SwiftUI.Axis&gt;, transition: @Sendable (SwiftUI.EmptyVisualEffect, SwiftUI.ScrollTransitionPhase) -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt; in closure #1 (Swift.Int) -&gt; SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.scrollTransition&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.VisualEffect&gt;(_: SwiftUI.ScrollTransitionConfiguration, axis: Swift.Optional&lt;SwiftUI.Axis&gt;, transition: @Sendable (SwiftUI.EmptyVisualEffect, SwiftUI.ScrollTransitionPhase) -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Swift.Int&gt;, Swift.Int, SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.scrollTransition&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.VisualEffect&gt;(_: SwiftUI.ScrollTransitionConfiguration, axis: Swift.Optional&lt;SwiftUI.Axis&gt;, transition: @Sendable (SwiftUI.EmptyVisualEffect, SwiftUI.ScrollTransitionPhase) -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.scrollTargetLayout(isEnabled: Swift.Bool) -&gt; some&gt;&gt;.0 in APadlockNumbers.PadlockCarousel.body.getter : some"
+                  moduleName = "APadlockNumbers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/juanmanuelmoreno/Documents/APadlockNumbers/APadlockNumbers/APadlockNumbers/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "89">
+               </Location>
+               <Location
+                  uuid = "F7DACF30-7338-429A-8574-9A93D1C25B8B - b939839e7f79041a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #2 (Swift.Array&lt;APadlockNumbers.PositionNumber&gt;) -&gt; () in closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.scrollTransition&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.VisualEffect&gt;(_: SwiftUI.ScrollTransitionConfiguration, axis: Swift.Optional&lt;SwiftUI.Axis&gt;, transition: @Sendable (SwiftUI.EmptyVisualEffect, SwiftUI.ScrollTransitionPhase) -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt; in closure #1 (Swift.Int) -&gt; SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.scrollTransition&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.VisualEffect&gt;(_: SwiftUI.ScrollTransitionConfiguration, axis: Swift.Optional&lt;SwiftUI.Axis&gt;, transition: @Sendable (SwiftUI.EmptyVisualEffect, SwiftUI.ScrollTransitionPhase) -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt; in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;Swift.Int&gt;, Swift.Int, SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.scrollTransition&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.VisualEffect&gt;(_: SwiftUI.ScrollTransitionConfiguration, axis: Swift.Optional&lt;SwiftUI.Axis&gt;, transition: @Sendable (SwiftUI.EmptyVisualEffect, SwiftUI.ScrollTransitionPhase) -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt;&gt;&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.scrollTargetLayout(isEnabled: Swift.Bool) -&gt; some&gt;&gt;.0 in APadlockNumbers.PadlockCarousel.body.getter : some"
+                  moduleName = "APadlockNumbers"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/juanmanuelmoreno/Documents/APadlockNumbers/APadlockNumbers/APadlockNumbers/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "57">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
